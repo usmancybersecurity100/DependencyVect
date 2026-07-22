@@ -1,0 +1,5 @@
+# Sample vulnerable requirements file
+requests==2.25.1
+urllib3==1.26.4
+jinja2==2.11.3
+django==3.1.2
