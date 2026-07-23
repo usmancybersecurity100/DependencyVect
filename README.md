@@ -95,7 +95,7 @@ python main.py --help
 ```
 
 **6. LinkedIn Profile Headings**
-Technical Support Engineer L1 at Sybrid pvt ltd  | Computer Science Graduate | Cybersecurity & DevSecOps Enthusiast
+Technical Support Engineer L1 at Sybrid pvt ltd  | Computer Science Graduate | Cybersecurity Enthusiast
 
 Cybersecurity Enthusiast | Creator of DependencyVect | Computer Science Graduate
 
