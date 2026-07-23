@@ -94,8 +94,13 @@ If you ever forget a command, just pull up the help menu:
 python main.py --help
 ```
 
----
+**6. LinkedIn Profile Headings**
+Technical Support Engineer L1 at Sybrid pvt ltd  | Computer Science Graduate | Cybersecurity & DevSecOps Enthusiast
 
+Cybersecurity Enthusiast | Creator of DependencyVect | Computer Science Graduate
+
+www.linkedin.com/in/itx-usmanali-sec
+---
 ## 🔒 Security & Compliance
 DependencyVect is designed for educational and defensive purposes to assist developers and security researchers in identifying vulnerabilities within their own software pipelines. Always ensure you have authorization before scanning third-party environments.
 
